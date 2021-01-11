@@ -2,5 +2,4 @@
 void main()
 {
 print f("hello world!!");
-print f("bye !!");
 }
